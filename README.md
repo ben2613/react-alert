@@ -36,8 +36,8 @@ $ npm install --save react-alert react-alert-template-basic
 This package expect the following peer dependencies:
 
 ```
-  "react": "^16.8.1"
-  "react-dom": "^16.8.1"
+  "react": "^18.3.1 || ^19.0.0"
+  "react-dom": "^18.3.1 || ^19.0.0"
 ```
 
 So make sure that you have those installed too!
